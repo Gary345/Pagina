@@ -1,0 +1,41 @@
+#fondo{
+    background-color: beige;
+    text-align: center;
+}
+#T1{
+    color: blue;
+    
+    font-style: italic;
+    
+}
+
+img{
+height:50%;
+}
+
+#LW{
+font-size: 20px;
+color: blueviolet;
+font-weight: bold;
+}
+ul,ol{
+    text-align: left;
+}
+#p2{
+    color: red;
+}
+#p3{
+    color: rgb(255, 0, 153);
+}
+
+iframe{
+    width: 300;
+    height: 200;
+}
+#p5{
+    font-size: 20px;
+}
+table tr td{
+border: 1px solid red;
+border-collapse: collapse;
+}
