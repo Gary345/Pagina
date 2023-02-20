@@ -9,8 +9,14 @@
     
 }
 
-img{
-height:50%;
+
+#tabla1{
+    font-size: 30px;
+}
+
+#carrusel{
+    height: 400px;
+    width: 100px;
 }
 
 #LW{
@@ -18,7 +24,7 @@ font-size: 20px;
 color: blueviolet;
 font-weight: bold;
 }
-ul,ol{
+ul,ol, #Ej {
     text-align: left;
 }
 #p2{
